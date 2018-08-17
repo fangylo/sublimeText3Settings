@@ -1,0 +1,27 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ACTG",
+		"Alignment",
+		"AlignTab",
+		"Anaconda",
+		"Color Highlight",
+		"Gist",
+		"Git",
+		"GitGutter",
+		"Google Spell Check",
+		"MarkdownEditing",
+		"MarkdownPreview",
+		"Monokai - Spacegray",
+		"Open Folder",
+		"Package Control",
+		"Package Syncing",
+		"Scalafmt",
+		"SideBarEnhancements",
+		"Theme - Spacefunk"
+	]
+}
